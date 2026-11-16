@@ -5,7 +5,6 @@
 **College:** IIPS, DAVV, Indore  
 **Subject:** Data Structures (DS) Lab  
 **Language:** C++  
-**Compiler standard used for checks:** GNU C++17
 
 ## About
 This repository contains semester lab exercises covering arrays, matrix operations, sorting, stacks, queues, linked lists and binary search trees. The 3 original C++ source files that had no file extension were renamed with `.cpp` extensions. The programs are kept as individual practicals so they can be opened and discussed independently during the lab viva.
@@ -47,8 +46,6 @@ Some programs take input from the keyboard. Enter the size first when prompted, 
 - Linked lists connect dynamically allocated nodes using pointers.
 - In a Binary Search Tree, smaller values are placed to the left and larger values to the right.
 
-## Viva preparation
-See [`Viva_Quick_Revision.md`](Viva_Quick_Revision.md) for short explanations, key logic, expected results and likely viva questions for every retained C++ program.
 
 ## Notes
 - Programs are separate practical examples; they are not one combined application.
